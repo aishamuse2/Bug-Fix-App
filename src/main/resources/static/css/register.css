@@ -1,0 +1,29 @@
+#title {
+      padding: 10px;
+      width: 100%;
+      text-align: center;
+      background-color: black;
+      color: gray;
+      margin-bottom: 30px;
+      font-style: oblique;
+}
+#title-container{
+width:100%;
+background-color:black
+}
+.container{
+margin-left:0;
+padding-left:0}
+
+#submit-button{
+background-color: black;
+}
+#register-container{
+width: 500px;
+margin:0 auto;
+background-color: grey;
+    top: 50px;
+    padding: 10px;
+
+
+}
