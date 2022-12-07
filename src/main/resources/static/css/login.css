@@ -1,3 +1,5 @@
+
+
 #submit-button{
 background-color: black;
 }
@@ -7,6 +9,10 @@ margin:0 auto;
 background-color: grey;
 top: 50px;
 padding: 10px;
-bor
+
 
 }
+}body.container {
+ max-width: unset;
+ padding: 0;
+ }

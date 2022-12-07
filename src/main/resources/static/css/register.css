@@ -26,4 +26,7 @@ background-color: grey;
     padding: 10px;
 
 
-}
+}body.container {
+ max-width: unset;
+ padding: 0;
+ }
